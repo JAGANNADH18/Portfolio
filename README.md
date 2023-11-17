@@ -2,10 +2,6 @@
 ## Portfolio 🔥
 
 Portfolio is a feature-rich website designed to showcase your projects and skills in a captivating way. Built with a tech stack of HTML, CSS, and JavaScript, this responsive portfolio ensures a seamless experience across devices.
-## Demo
-
-https://harisahmad.netlify.app
-
 
 ## Features
 
@@ -16,11 +12,8 @@ https://harisahmad.netlify.app
 - Super Fast and Optimized for SEO ⚡
 - Dark/Light Toggle Modes 🤘
 
-
-
-
 ## 🚀 About Me
-Hello, I'm Haris Ahmad, the visionary mind behind Portfolio – a groundbreaking open-source portfolio website. Dive into the world of coding excellence with Hypefolio's freely available source code, empowering anyone to craft their digital showcase effortlessly. 🌐✨
+Hello, I'm Puri jagannadh Ulapalli, the visionary mind behind Portfolio – a groundbreaking open-source portfolio website. Dive into the world of coding excellence with Hypefolio's freely available source code, empowering anyone to craft their digital showcase effortlessly. 🌐✨
 
 Connect with me on LinkedIn to stay in the loop with my professional journey and discover insights into the evolving tech landscape.
 
@@ -30,17 +23,17 @@ Your journey doesn't stop there! Join me on Instagram for a closer look at my co
 
 Instagram: https://instagram.com/viper_jaggu?igshid=MTNiYzNiMzkwZA==
 
-
 ## Tech Stack
 
 - HTML 🚀
 - CSS 🚀
 - JavaScript 🚀
+
 ## How To Use
 
 ```
 # Clone this repository
-$ git clone https://github.com/harisahmad59/Hypefolio
+$ git clone https://github.com/JAGANNADH18
 
 # Go into the repository
 $ cd Hypefolio
