@@ -21,7 +21,7 @@ My Linkedin: https://www.linkedin.com/in/puri-jagannadh-ulapalli-b18104253
 
 Your journey doesn't stop there! Join me on Instagram for a closer look at my content, where I share coding tips, project highlights, and more. Don't miss out – your coding adventure awaits! 🔍💡 
 
-Instagram: https://instagram.com/viper_jaggu?igshid=MTNiYzNiMzkwZA==
+Website link:https://jagannadh18.github.io/Portfolio/
 
 ## Tech Stack
 
