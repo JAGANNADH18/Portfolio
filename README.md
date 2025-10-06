@@ -17,7 +17,7 @@ Hello, I'm Puri jagannadh Ulapalli, the visionary mind behind Portfolio – a gr
 
 Connect with me on LinkedIn to stay in the loop with my professional journey and discover insights into the evolving tech landscape.
 
-My Linkedin: https://www.linkedin.com/in/puri-jagannadh-ulapalli-b18104253
+My Linkedin: https://www.linkedin.com/in/puri-jagannadh-ulapalli
 
 Your journey doesn't stop there! Join me on Instagram for a closer look at my content, where I share coding tips, project highlights, and more. Don't miss out – your coding adventure awaits! 🔍💡 
 
@@ -36,7 +36,7 @@ Website link:https://jagannadh18.github.io/Portfolio/
 $ git clone https://github.com/JAGANNADH18
 
 # Go into the repository
-$ cd Hypefolio
+$ cd Portfolio
 
 # Remove current origin repository
 $ git remote remove origin
